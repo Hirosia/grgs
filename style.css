@@ -59,7 +59,7 @@ main{
 .ecran1{
   margin-top: 0;
   height: 1000px;
-  background-image: url(content/backrgrond2.jpg);
+  background-image: url(imgt/backrgrond2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   align-items: center;
@@ -168,7 +168,7 @@ h2{
 .ecran3{
   margin-top: 0;
   padding-bottom: 30px;
-  background-image: url(content/background.jpg);
+  background-image: url(img/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   align-items: center;
